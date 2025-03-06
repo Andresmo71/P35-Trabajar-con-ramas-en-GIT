@@ -1,0 +1,9 @@
+# Ignorar archivos de compilación
+*.class
+bin/
+target/
+
+# Ignorar configuraciones del IDE
+*.iml
+.idea/
+.vscode/
